@@ -1,6 +1,6 @@
 <img width="873" height="529" alt="image" src="https://github.com/user-attachments/assets/bb2687a5-ea59-450c-a68d-606f9c8e92e4" />
 
-להלן README מסודר, מקצועי וברור — מותאם לפרויקט פשוט ב-CSS כחלק מקורס התכנות שלך, עם דגש על הבנת **children**, **animations** ו־**@keyframes**.
+.
 
 ---
 
